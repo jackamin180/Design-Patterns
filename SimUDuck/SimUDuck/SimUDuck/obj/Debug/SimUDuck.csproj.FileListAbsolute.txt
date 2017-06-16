@@ -1,6 +1,0 @@
-C:\Users\Amin\Documents\Visual Studio 2015\Projects\Design Pattern\SimUDuck\SimUDuck\SimUDuck\bin\Debug\SimUDuck.exe.config
-C:\Users\Amin\Documents\Visual Studio 2015\Projects\Design Pattern\SimUDuck\SimUDuck\SimUDuck\obj\Debug\SimUDuck.csprojResolveAssemblyReference.cache
-C:\Users\Amin\Documents\Visual Studio 2015\Projects\Design Pattern\SimUDuck\SimUDuck\SimUDuck\bin\Debug\SimUDuck.exe
-C:\Users\Amin\Documents\Visual Studio 2015\Projects\Design Pattern\SimUDuck\SimUDuck\SimUDuck\bin\Debug\SimUDuck.pdb
-C:\Users\Amin\Documents\Visual Studio 2015\Projects\Design Pattern\SimUDuck\SimUDuck\SimUDuck\obj\Debug\SimUDuck.exe
-C:\Users\Amin\Documents\Visual Studio 2015\Projects\Design Pattern\SimUDuck\SimUDuck\SimUDuck\obj\Debug\SimUDuck.pdb

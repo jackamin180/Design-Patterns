@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimUDuck
+namespace StrategyPattern
 {
-    class RubberDuck : Duck
+    class FlyNoWay : FlyBehavior
     {
-        public override void display()
+        public void fly()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("I can't fly"); ;
         }
     }
 }

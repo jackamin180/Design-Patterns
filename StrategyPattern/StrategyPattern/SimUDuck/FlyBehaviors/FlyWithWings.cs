@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SimUDuck
+namespace StrategyPattern
 {
     internal class FlyWithWings : FlyBehavior
     {

@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimUDuck
+namespace StrategyPattern
 {
-    class FlyNoWay : FlyBehavior
+    class MuteQuack : QuackBehavior
     {
-        public void fly()
+        void QuackBehavior.quack()
         {
-            Console.WriteLine("I can't fly"); ;
+            Console.WriteLine("<<  Silence >>");
         }
     }
 }

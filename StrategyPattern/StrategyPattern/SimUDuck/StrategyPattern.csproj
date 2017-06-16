@@ -7,8 +7,8 @@
     <ProjectGuid>{8448A855-BE05-4CA5-B8BB-751E5480F7E1}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SimUDuck</RootNamespace>
-    <AssemblyName>SimUDuck</AssemblyName>
+    <RootNamespace>StrategyPattern</RootNamespace>
+    <AssemblyName>StrategyPattern</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

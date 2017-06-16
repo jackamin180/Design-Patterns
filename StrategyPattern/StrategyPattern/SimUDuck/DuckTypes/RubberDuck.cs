@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimUDuck
+namespace StrategyPattern
 {
-    class Squeak : QuackBehavior
+    class RubberDuck : Duck
     {
-        public void quack()
+        public override void display()
         {
-            Console.WriteLine("Squeak");
+            throw new NotImplementedException();
         }
     }
 }
